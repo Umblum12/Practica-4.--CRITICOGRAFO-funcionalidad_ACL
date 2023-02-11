@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/pZqu/emlTgvmxo8vpQQ/U6HNQFZ8xLnlWVSCCf4J4IUfrjayLi7wYpztwuEgGTCClZq9tzryOPS0zUYMpYzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abela\\source\\repos\\Practica 4.- CRITICOGRAFO funcionalidad_ACL\\Practica 4.- CRITICOGRAFO funcionalidad_ACL\\Practica 4.- CRITICOGRAFO funcionalidad_ACL\\Practica 4.- CRITICOGRAFO funcionalidad_ACL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abela\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
